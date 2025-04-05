@@ -62,10 +62,5 @@ public class Personagens {
         
         return ("<html> Vida: " + vida + "<br>"+ "<br>" + "Poder: " + poder + " <br>" + "<br>" 
                 + "Ataque: " + ataque + "</html>");
-    }
-    
-
-    
-  
-    
+    } 
 }
